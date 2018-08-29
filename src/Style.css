@@ -1,0 +1,31 @@
+.red {
+    color : red;
+    font-weight: bold;
+}
+
+.blue {
+    color : blue;
+    font-weight: bold;
+}
+
+.inlineBox {
+    display: inline-block;
+    padding: 16px;
+    text-align: center;
+    margin: 16px;
+    border: 1px solid black;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.container {
+    margin: 20px auto;
+    width: 30%;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+.inputContainer {
+    margin: 16px;
+    border: 1px solid black;
+}
